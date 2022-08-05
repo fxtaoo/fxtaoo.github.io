@@ -1,0 +1,26 @@
+title: 方学涛
+
+author:
+  name: 方学涛
+  email: i@fangxuetao.com
+
+permalink: /:title
+favicon: favicon.ico
+locale: zh_CN
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+url: "https://fangxuetao.com"
+log: favicon.ico
+timezone: Asia/Shanghai
+
+twitter:
+  username: fxtaoo
+
+social:
+  name: 方学涛
+  links:
+    - https://github.com/fxtaoo
